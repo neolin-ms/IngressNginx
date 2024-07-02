@@ -1,2 +1,2 @@
 # IngressNginx
-Kubernetes / ingress-nginx, <br>https://github.com/kubernetes/ingress-nginx<br>
+Kubernetes / ingress-nginx, https://github.com/kubernetes/ingress-nginx<br>
